@@ -2,8 +2,11 @@
 
 
 
-- Hi, this is Eylul👋 I am a student who tries to learn new things day by day.
+- Hi, this is Eylul👋 I am a high school student who tries to learn new things day by day.
 - 🌱 I’m currently learning French and Python.
+
+[replit]https://replit.com/@eylulthecoder
+  
 
 ---
 
